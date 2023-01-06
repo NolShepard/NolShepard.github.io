@@ -16,19 +16,58 @@ body {
     background-image: linear-gradient(to right bottom, rgba(0, 0, 0, 1),
                 rgba(10, 10, 10, 0.9));
     background-size: cover;
+    font-family: 'Open Sans', sans-serif;
 
     section {
         margin: 2rem auto;
+        padding: .5rem;
         max-width: 60rem;
         
         h1 {
             color: lightsalmon;
-            font-size: 8rem;
+            text-align: center;
+            font-size: 7.5rem;
+            margin: 3rem auto;
+        }
+
+        img {
+            max-width: 25rem;
+            margin: .5rem;
+            border-radius: 2rem;
+            animation: moveInLeft 1s ease-out;
+            float: right;
+
+            @keyframes moveInLeft {
+                0% {
+                    translate: 10rem -3rem;
+                }
+
+                100% {
+                    translate: 0rem 0rem;
+                }
+            }
         }
 
         p {
             color: cornsilk;
             font-size: 2rem;
+            margin: 1.5rem auto;
+            animation: moveInRight 1s ease-out;
+
+            a {
+                color: palegreen;
+                text-decoration: none;
+            }
+            
+            @keyframes moveInRight {
+                0% {
+                    translate: -10rem 3rem;
+                }
+        
+                100% {
+                    translate: 0rem 0rem;
+                }
+            }
         }
     }
 }

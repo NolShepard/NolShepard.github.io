@@ -15,16 +15,67 @@ body {
   overflow: hidden;
   background-image: linear-gradient(to right bottom, rgb(0, 0, 0), rgba(10, 10, 10, 0.9));
   background-size: cover;
+  font-family: "Open Sans", sans-serif;
 }
 body section {
   margin: 2rem auto;
+  padding: 0.5rem;
   max-width: 60rem;
 }
 body section h1 {
   color: lightsalmon;
-  font-size: 8rem;
+  text-align: center;
+  font-size: 7.5rem;
+  margin: 3rem auto;
+}
+body section img {
+  max-width: 25rem;
+  margin: 0.5rem;
+  border-radius: 2rem;
+  -webkit-animation: moveInLeft 1s ease-out;
+          animation: moveInLeft 1s ease-out;
+  float: right;
+}
+@-webkit-keyframes moveInLeft {
+  0% {
+    translate: 10rem -3rem;
+  }
+  100% {
+    translate: 0rem 0rem;
+  }
+}
+@keyframes moveInLeft {
+  0% {
+    translate: 10rem -3rem;
+  }
+  100% {
+    translate: 0rem 0rem;
+  }
 }
 body section p {
   color: cornsilk;
   font-size: 2rem;
+  margin: 1.5rem auto;
+  -webkit-animation: moveInRight 1s ease-out;
+          animation: moveInRight 1s ease-out;
+}
+body section p a {
+  color: palegreen;
+  text-decoration: none;
+}
+@-webkit-keyframes moveInRight {
+  0% {
+    translate: -10rem 3rem;
+  }
+  100% {
+    translate: 0rem 0rem;
+  }
+}
+@keyframes moveInRight {
+  0% {
+    translate: -10rem 3rem;
+  }
+  100% {
+    translate: 0rem 0rem;
+  }
 }/*# sourceMappingURL=style.css.map */
