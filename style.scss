@@ -11,11 +11,7 @@ html {
 }
 
 body {
-    min-height: 100vh;
-    overflow: hidden;
-    background-image: linear-gradient(to right bottom, rgba(0, 0, 0, 1),
-                rgba(10, 10, 10, 0.9));
-    background-size: cover;
+    background-color: black;
     font-family: 'Open Sans', sans-serif;
 
     section {
@@ -24,7 +20,10 @@ body {
         max-width: 60rem;
         
         h1 {
-            color: lightsalmon;
+            background-clip: text;
+            background-image: linear-gradient(to right, orange, lightsalmon,
+                        rgba(160, 25, 0, 0.9));
+            color: transparent;
             text-align: center;
             font-size: 7.5rem;
             margin: 3rem auto;
