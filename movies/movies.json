@@ -60,18 +60,18 @@
         "Disc":  "DVD",
         "Type":  "Movie",
         "Category":  "",
-        "Producer":  "Touchstone entertainment"
+        "Producer":  "Touchstone"
     },
     {
         "Title":  "Aladdin",
-        "Disc":  "BlueRay",
+        "Disc":  "Blu-Ray",
         "Type":  "Movie ",
         "Category":  "",
         "Producer":  ""
     },
     {
         "Title":  "Alice in Wonderland",
-        "Disc":  "BlueRay",
+        "Disc":  "Blu-Ray",
         "Type":  "Movie ",
         "Category":  "",
         "Producer":  ""
@@ -81,14 +81,14 @@
         "Disc":  "DVD",
         "Type":  "Movie ",
         "Category":  "",
-        "Producer":  "Fox 20th Century"
+        "Producer":  "20th Century Fox"
     },
     {
         "Title":  "Alien 3",
         "Disc":  "DVD",
         "Type":  "Movie ",
         "Category":  "",
-        "Producer":  "Fox 20th Century"
+        "Producer":  "20th Century Fox"
     },
     {
         "Title":  "Alien Covenant",
@@ -102,35 +102,35 @@
         "Disc":  "DVD",
         "Type":  "Movie ",
         "Category":  "",
-        "Producer":  "Fox 20th Century"
+        "Producer":  "20th Century Fox"
     },
     {
         "Title":  "Alien Versus Predator  ",
         "Disc":  "DVD",
         "Type":  "Movie ",
         "Category":  "",
-        "Producer":  "Fox 20th Century"
+        "Producer":  "20th Century Fox"
     },
     {
         "Title":  "Alien Versus Predator Requiem",
         "Disc":  "DVD",
         "Type":  "Movie ",
         "Category":  "",
-        "Producer":  "Fox 20th Century"
+        "Producer":  "20th Century Fox"
     },
     {
         "Title":  "Aliens",
         "Disc":  "DVD",
         "Type":  "Movie ",
         "Category":  "",
-        "Producer":  "Fox 20th Century"
+        "Producer":  "20th Century Fox"
     },
     {
         "Title":  "Anastasia",
         "Disc":  "DVD",
         "Type":  "Movie ",
         "Category":  "",
-        "Producer":  "Fox 20th Century"
+        "Producer":  "20th Century Fox"
     },
     {
         "Title":  "Anchorman",
@@ -151,7 +151,7 @@
         "Disc":  "DVD",
         "Type":  "Movie ",
         "Category":  "",
-        "Producer":  "Fox 20th Century"
+        "Producer":  "20th Century Fox"
     },
     {
         "Title":  "Austin Powers Goldmember",
@@ -176,10 +176,10 @@
     },
     {
         "Title":  "Avatar",
-        "Disc":  "BlueRay",
+        "Disc":  "Blu-Ray",
         "Type":  "Movie ",
         "Category":  "",
-        "Producer":  "Fox 20th Century"
+        "Producer":  "20th Century Fox"
     },
     {
         "Title":  "Avengers Infinity War",
@@ -253,14 +253,14 @@
     },
     {
         "Title":  "Beauty and the Beast",
-        "Disc":  "BlueRay",
+        "Disc":  "Blu-Ray",
         "Type":  "Movie ",
         "Category":  "",
         "Producer":  ""
     },
     {
         "Title":  "Beauty and the Beast (Animation)",
-        "Disc":  "BlueRay",
+        "Disc":  "Blu-Ray",
         "Type":  "Movie ",
         "Category":  "",
         "Producer":  ""
@@ -277,7 +277,7 @@
         "Disc":  "DVD",
         "Type":  "Movie ",
         "Category":  "",
-        "Producer":  "Fox 20th Century"
+        "Producer":  "20th Century Fox"
     },
     {
         "Title":  "Beetlejuice",
@@ -305,7 +305,7 @@
         "Disc":  "DVD",
         "Type":  "Movie ",
         "Category":  "",
-        "Producer":  "Fox 20th Century"
+        "Producer":  "20th Century Fox"
     },
     {
         "Title":  "Black Panther",
@@ -382,7 +382,7 @@
         "Disc":  "DVD",
         "Type":  "Movie",
         "Category":  "",
-        "Producer":  "Touchstone entertainment"
+        "Producer":  "Touchstone"
     },
     {
         "Title":  "Catch Me If You Can",
@@ -561,7 +561,7 @@
     },
     {
         "Title":  "Doctor Strange",
-        "Disc":  "BlueRay",
+        "Disc":  "Blu-Ray",
         "Type":  "Movie ",
         "Category":  "",
         "Producer":  ""
@@ -592,14 +592,14 @@
         "Disc":  "DVD",
         "Type":  "Movie ",
         "Category":  "",
-        "Producer":  "Fox 20th Century"
+        "Producer":  "20th Century Fox"
     },
     {
         "Title":  "Eragon",
         "Disc":  "DVD",
         "Type":  "Movie ",
         "Category":  "",
-        "Producer":  "Fox 20th Century"
+        "Producer":  "20th Century Fox"
     },
     {
         "Title":  "Erin Brockovich",
@@ -648,18 +648,18 @@
         "Disc":  "DVD",
         "Type":  "Movie ",
         "Category":  "",
-        "Producer":  "Fox 20th Century"
+        "Producer":  "20th Century Fox"
     },
     {
         "Title":  "Fantastic 4 Rise of the Silver Surfer",
         "Disc":  "DVD",
         "Type":  "Movie ",
         "Category":  "",
-        "Producer":  "Fox 20th Century"
+        "Producer":  "20th Century Fox"
     },
     {
         "Title":  "Fantastic Beasts and Where to Find Them",
-        "Disc":  "BlueRay",
+        "Disc":  "Blu-Ray",
         "Type":  "Movie ",
         "Category":  "",
         "Producer":  "Warner Brothers"
@@ -676,18 +676,18 @@
         "Disc":  "DVD",
         "Type":  "Movie ",
         "Category":  "",
-        "Producer":  "Fox 20th Century"
+        "Producer":  "20th Century Fox"
     },
     {
         "Title":  "Finding Dory",
-        "Disc":  "BlueRay",
+        "Disc":  "Blu-Ray",
         "Type":  "Movie ",
         "Category":  "",
         "Producer":  "Disney"
     },
     {
         "Title":  "Finding Nemo",
-        "Disc":  "BlueRay",
+        "Disc":  "Blu-Ray",
         "Type":  "Movie ",
         "Category":  "",
         "Producer":  "Disney"
@@ -855,7 +855,7 @@
     },
     {
         "Title":  "Guardians of the Galaxy Vol. 2",
-        "Disc":  "BlueRay",
+        "Disc":  "Blu-Ray",
         "Type":  "Movie ",
         "Category":  "",
         "Producer":  ""
@@ -876,7 +876,7 @@
     },
     {
         "Title":  "Hansel and Gretel Witch Hunters",
-        "Disc":  "BlueRay",
+        "Disc":  "Blu-Ray",
         "Type":  "Movie ",
         "Category":  "",
         "Producer":  ""
@@ -1180,7 +1180,7 @@
         "Disc":  "DVD",
         "Type":  "Movie ",
         "Category":  "",
-        "Producer":  "Fox 20th Century"
+        "Producer":  "20th Century Fox"
     },
     {
         "Title":  "Journey to the Center of the Earth",
@@ -1229,7 +1229,7 @@
         "Disc":  "DVD",
         "Type":  "Movie ",
         "Category":  "",
-        "Producer":  "Fox 20th Century"
+        "Producer":  "20th Century Fox"
     },
     {
         "Title":  "Justice League",
@@ -1544,7 +1544,7 @@
         "Disc":  "DVD",
         "Type":  "Movie ",
         "Category":  "",
-        "Producer":  "Fox 20th Century"
+        "Producer":  "20th Century Fox"
     },
     {
         "Title":  "National Treasure",
@@ -1674,14 +1674,14 @@
     },
     {
         "Title":  "Pocahantas",
-        "Disc":  "BlueRay",
+        "Disc":  "Blu-Ray",
         "Type":  "Movie ",
         "Category":  "",
         "Producer":  ""
     },
     {
         "Title":  "Pocahantas II",
-        "Disc":  "BlueRay",
+        "Disc":  "Blu-Ray",
         "Type":  "Movie ",
         "Category":  "",
         "Producer":  ""
@@ -1698,14 +1698,14 @@
         "Disc":  "DVD",
         "Type":  "Movie ",
         "Category":  "",
-        "Producer":  "Fox 20th Century"
+        "Producer":  "20th Century Fox"
     },
     {
         "Title":  "Predator 2",
         "Disc":  "DVD",
         "Type":  "Movie ",
         "Category":  "",
-        "Producer":  "Fox 20th Century"
+        "Producer":  "20th Century Fox"
     },
     {
         "Title":  "Pretty Woman",
@@ -1733,7 +1733,7 @@
         "Disc":  "DVD",
         "Type":  "Movie ",
         "Category":  "",
-        "Producer":  "Fox 20th Century"
+        "Producer":  "20th Century Fox"
     },
     {
         "Title":  "Ready Player One",
@@ -1768,7 +1768,7 @@
         "Disc":  "DVD",
         "Type":  "Movie ",
         "Category":  "",
-        "Producer":  "Fox 20th Century"
+        "Producer":  "20th Century Fox"
     },
     {
         "Title":  "Robin Hood",
@@ -1898,7 +1898,7 @@
     },
     {
         "Title":  "SNow White and the Huntsman",
-        "Disc":  "BlueRay",
+        "Disc":  "Blu-Ray",
         "Type":  "Movie ",
         "Category":  "",
         "Producer":  "Universal"
@@ -1912,7 +1912,7 @@
     },
     {
         "Title":  "Spider-Man 2",
-        "Disc":  "BlueRay",
+        "Disc":  "Blu-Ray",
         "Type":  "Movie ",
         "Category":  "",
         "Producer":  "Columbia Pictures"
@@ -1940,45 +1940,45 @@
     },
     {
         "Title":  "Star Wars I",
-        "Disc":  "BlueRay",
+        "Disc":  "Blu-Ray",
         "Type":  "Movie ",
         "Category":  "",
-        "Producer":  "Fox 20th Century"
+        "Producer":  "20th Century Fox"
     },
     {
         "Title":  "Star Wars II",
-        "Disc":  "BlueRay",
+        "Disc":  "Blu-Ray",
         "Type":  "Movie ",
         "Category":  "",
-        "Producer":  "Fox 20th Century"
+        "Producer":  "20th Century Fox"
     },
     {
         "Title":  "Star Wars III",
-        "Disc":  "BlueRay",
+        "Disc":  "Blu-Ray",
         "Type":  "Movie ",
         "Category":  "",
-        "Producer":  "Fox 20th Century"
+        "Producer":  "20th Century Fox"
     },
     {
         "Title":  "Star Wars IV",
-        "Disc":  "BlueRay",
+        "Disc":  "Blu-Ray",
         "Type":  "Movie ",
         "Category":  "",
-        "Producer":  "Fox 20th Century"
+        "Producer":  "20th Century Fox"
     },
     {
         "Title":  "Star Wars V",
-        "Disc":  "BlueRay",
+        "Disc":  "Blu-Ray",
         "Type":  "Movie ",
         "Category":  "",
-        "Producer":  "Fox 20th Century"
+        "Producer":  "20th Century Fox"
     },
     {
         "Title":  "Star Wars VI",
-        "Disc":  "BlueRay",
+        "Disc":  "Blu-Ray",
         "Type":  "Movie ",
         "Category":  "",
-        "Producer":  "Fox 20th Century"
+        "Producer":  "20th Century Fox"
     },
     {
         "Title":  "Steel Magnolias",
@@ -1992,7 +1992,7 @@
         "Disc":  "DVD",
         "Type":  "Movie ",
         "Category":  "",
-        "Producer":  "Fox 20th Century"
+        "Producer":  "20th Century Fox"
     },
     {
         "Title":  "Sugar and Spice",
@@ -2115,7 +2115,7 @@
     },
     {
         "Title":  "The Croods",
-        "Disc":  "BlueRay",
+        "Disc":  "Blu-Ray",
         "Type":  "Movie ",
         "Category":  "",
         "Producer":  "DreamWorks"
@@ -2202,49 +2202,49 @@
         "Disc":  "DVD",
         "Type":  "TV Season",
         "Category":  "",
-        "Producer":  "abc Studios"
+        "Producer":  "ABC"
     },
     {
         "Title":  "The Golden Girls Season 2",
         "Disc":  "DVD",
         "Type":  "TV Season",
         "Category":  "",
-        "Producer":  "abc Studios"
+        "Producer":  "ABC"
     },
     {
         "Title":  "The Golden Girls Season 3",
         "Disc":  "DVD",
         "Type":  "TV Season",
         "Category":  "",
-        "Producer":  "abc Studios"
+        "Producer":  "ABC"
     },
     {
         "Title":  "The Golden Girls Season 4",
         "Disc":  "DVD",
         "Type":  "TV Season",
         "Category":  "",
-        "Producer":  "abc Studios"
+        "Producer":  "ABC"
     },
     {
         "Title":  "The Golden Girls Season 5",
         "Disc":  "DVD",
         "Type":  "TV Season",
         "Category":  "",
-        "Producer":  "abc Studios"
+        "Producer":  "ABC"
     },
     {
         "Title":  "The Golden Girls Season 6",
         "Disc":  "DVD",
         "Type":  "TV Season",
         "Category":  "",
-        "Producer":  "abc Studios"
+        "Producer":  "ABC"
     },
     {
         "Title":  "The Golden Girls Season 7",
         "Disc":  "DVD",
         "Type":  "TV Season",
         "Category":  "",
-        "Producer":  "abc Studios"
+        "Producer":  "ABC"
     },
     {
         "Title":  "The Good Dinosaur",
@@ -2286,7 +2286,7 @@
         "Disc":  "DVD",
         "Type":  "Movie ",
         "Category":  "",
-        "Producer":  "Fox 20th Century"
+        "Producer":  "20th Century Fox"
     },
     {
         "Title":  "The Hobbit Trilogy",
@@ -2342,7 +2342,7 @@
         "Disc":  "DVD",
         "Type":  "Movie ",
         "Category":  "",
-        "Producer":  "Fox 20th Century"
+        "Producer":  "20th Century Fox"
     },
     {
         "Title":  "The Incredibles",
@@ -2388,7 +2388,7 @@
     },
     {
         "Title":  "The Lego Movie",
-        "Disc":  "BlueRay",
+        "Disc":  "Blu-Ray",
         "Type":  "Movie ",
         "Category":  "",
         "Producer":  "Warner Brothers"
@@ -2409,7 +2409,7 @@
     },
     {
         "Title":  "The Lion King",
-        "Disc":  "BlueRay",
+        "Disc":  "Blu-Ray",
         "Type":  "Movie ",
         "Category":  "",
         "Producer":  "Disney"
@@ -2423,7 +2423,7 @@
     },
     {
         "Title":  "The Lorax",
-        "Disc":  "BlueRay",
+        "Disc":  "Blu-Ray",
         "Type":  "Movie ",
         "Category":  "",
         "Producer":  "Universal"
@@ -2503,7 +2503,7 @@
         "Disc":  "Blu-Ray",
         "Type":  "Movie",
         "Category":  "",
-        "Producer":  "classic media"
+        "Producer":  "Classic Media"
     },
     {
         "Title":  "The Others",
@@ -2556,7 +2556,7 @@
     },
     {
         "Title":  "The Princess and the Frog",
-        "Disc":  "BlueRay",
+        "Disc":  "Blu-Ray",
         "Type":  "Movie ",
         "Category":  "",
         "Producer":  ""
