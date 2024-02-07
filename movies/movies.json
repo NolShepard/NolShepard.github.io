@@ -371,6 +371,20 @@
         "Producer":  ""
     },
     {
+        "Title":  "Bring It On",
+        "Disc":  "DVD",
+        "Type":  "Movie ",
+        "Category":  "",
+        "Producer":  "Universal"
+    },
+    {
+        "Title":  "Buffy The Vampire Slayer",
+        "Disc":  "DVD",
+        "Type":  "Movie ",
+        "Category":  "",
+        "Producer":  "20th Century Fox"
+    },
+    {
         "Title":  "Calendar Girls",
         "Disc":  "DVD",
         "Type":  "Movie ",
@@ -2415,8 +2429,22 @@
         "Producer":  "Disney"
     },
     {
+        "Title":  "The Little Mermaid (Animation)",
+        "Disc":  "DVD",
+        "Type":  "Movie ",
+        "Category":  "",
+        "Producer":  "Disney"
+    },
+    {
         "Title":  "The Little Mermaid",
         "Disc":  "DVD",
+        "Type":  "Movie ",
+        "Category":  "",
+        "Producer":  "Disney"
+    },    
+    {
+        "Title":  "The Little Mermaid",
+        "Disc":  "Blu-Ray",
         "Type":  "Movie ",
         "Category":  "",
         "Producer":  "Disney"
