@@ -1897,6 +1897,13 @@
         "Producer":  "Touchstone"
     },
     {
+        "Title": "Sleeping Beauty Special Edition",
+        "Disc": "DVD",
+        "Type": "Movie",
+        "Category": "",
+        "Producer": "Disney"
+    },
+    {
         "Title":  "Sleepy Hollow",
         "Disc":  "DVD",
         "Type":  "Movie ",
@@ -1911,11 +1918,18 @@
         "Producer":  ""
     },
     {
-        "Title":  "SNow White and the Huntsman",
+        "Title":  "Snow White and the Huntsman",
         "Disc":  "Blu-Ray",
         "Type":  "Movie ",
         "Category":  "",
         "Producer":  "Universal"
+    },
+    {
+        "Title":  "Snow White and the Seven Dwarfs",
+        "Disc":  "DVD",
+        "Type":  "Movie ",
+        "Category":  "",
+        "Producer":  "Disney"
     },
     {
         "Title":  "Spider-Man ",
@@ -2046,6 +2060,13 @@
     {
         "Title":  "Tangeled",
         "Disc":  "DVD",
+        "Type":  "Movie ",
+        "Category":  "",
+        "Producer":  "Disney"
+    },
+    {
+        "Title":  "Tarzan",
+        "Disc":  "Blu-Ray",
         "Type":  "Movie ",
         "Category":  "",
         "Producer":  "Disney"
